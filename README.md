@@ -12,7 +12,7 @@ Welcome to the Weather Forecast Application GitHub repository! This repository c
 
 1. Clone the repository to your local machine using the following command:
 
-* git clone https://github.com/kartikaysingh69/CODSOFT_task4_WEATHER-FORECAST.git
+* git clone https://github.com/kartikaysingh69/CODSOFT_task4_Weather-Forecast.git
 
 2. Navigate to the repository's directory:
 
